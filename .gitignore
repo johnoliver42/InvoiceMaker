@@ -192,4 +192,4 @@ local.properties
 
 /src/main/resources/hibernate.cfg.xml
 /src/test/resources/database.properties
-/.idea/sonarlint/
+/.idea/sonarlint/*
