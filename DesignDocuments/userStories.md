@@ -15,3 +15,9 @@ be able to create a shipping label without an invoice. (MVP)
 As a registered user I want to be able to view past invoices. (MVP)
 ## Help
 As a user I want help/instructions on how to use the site. (MVP)
+##
+As a user I want to be able to send a customer an invoice or shipping label attached to an email.
+##
+As a user I want to be able to edit a shipping label.
+##
+As a user I want to be able to invalidate a label.

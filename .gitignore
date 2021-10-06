@@ -7,6 +7,8 @@
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.idea/sonarlint*
+
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
@@ -188,3 +190,6 @@ local.properties
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
 
+/src/main/resources/hibernate.cfg.xml
+/src/test/resources/database.properties
+/.idea/sonarlint/

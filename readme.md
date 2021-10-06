@@ -23,7 +23,7 @@ automatically create a shipping label using information already stored or entere
 * Dependency Management
   * Maven
 * CSS 
-  * Bootstrap
+  * Bootstrap 5
 * Data Validation
   * Bootstrap
 * Logging
