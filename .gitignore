@@ -194,4 +194,4 @@ local.properties
 /src/test/resources/database.properties
 /.idea/sonarlint/
 /src/test/resources/hibernate.cfg.xml
-
+/.idea/sonarlint/issuestore/index.pb
