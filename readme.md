@@ -1,8 +1,8 @@
 # Invoice Maker
 ### Problem Statement
-Many individuals engaged in side jobs or small-scale businesses often find themselves in need of crafting polished invoices and professional shipping labels. Although it's feasible to accomplish this task using common software like Microsoft Office or LibreOffice, the quality of the resulting documents depends heavily on the user's design skills. Moreover, the process of generating an invoice and shipping label with readily available, budget-friendly tools can be unnecessarily time consuming, involving numerous repetitive steps like inputting the shipping address twice—once on the invoice and again on the shipping label. While not particularly challenging, this process can be streamlined for greater efficiency. 
+InvoiceMaker is the ultimate platform for freelancers, gig workers, and side hustlers who want to create no fuss invoices and shipping labels with ease. You can find many free ways to create an invoice, and making a shipping label is not hard. But InvoiceMaker lets you create both at the same time with a simple step by step interface that rivals costly shopping cart software or CRMs.
 
-Enter Invoice Maker, designed to simplify this entire process. It offers an integrated solution that empowers users to effortlessly create invoices and automatically generate shipping labels, all while utilizing information already stored or entered during the invoice creation process.
+InvoiceMaker is designed to save you time and hassle. It offers a seamless solution that lets you create invoices in minutes and generate shipping labels automatically, using the information you already entered during the invoice creation process. No more typing the same data twice!
 
 ### Project Technologies/Techniques 
 
