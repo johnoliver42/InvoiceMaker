@@ -122,3 +122,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/src/test/resources/hibernate.cfg.xml
