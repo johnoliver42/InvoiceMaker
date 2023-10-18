@@ -43,9 +43,12 @@ public class SessionFactoryProvider {
      */
     public static SessionFactory getSessionFactory() {
         if (sessionFactory == null) {
-            createSessionFactory();
+            synchronized(SessionFactoryProvider.class) {
+                if (sessionFactory == null) {
+                    createSessionFactory();
+                }
+            }
         }
         return sessionFactory;
-
     }
 }
