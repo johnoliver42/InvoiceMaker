@@ -1,4 +1,4 @@
-package com.invoiceMaker.persistance;
+package com.invoship.persistance;
 
 import util.Database;
 

@@ -1,4 +1,4 @@
-package com.invoiceMaker.utility;
+package com.invoship.utility;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;
