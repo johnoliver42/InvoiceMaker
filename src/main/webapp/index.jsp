@@ -7,7 +7,15 @@
 <header>
     <%@include file="header.jsp"%>, <br>
 </header>
-<h2>Hello World!</h2>
+
+<div class="container main-content-container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>My First Heading</h1>
+            <p>My first paragraph.</p>
+        </div>
+    </div>
+</div>
 </body>
 <footer>
     <%@include file="footer.jsp"%>
